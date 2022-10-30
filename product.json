@@ -6,11 +6,11 @@
       "description": "An apple mobile which is nothing like apple",
       "price": 549,
       "discoundPrice": 530
-      "SKU": 6zQpZ-0008746-001184467
+      "SKU": "6zQpZ-0008746-001184467"
       "availability": "instock"
       "Brand":"Not Found"
       "Material":"Mesh cotton"
-      "size":[S,L,XL,XXL],
+      "size":['S','L','XL','XXL'],
       "soldBy":"GS7"
       "disclaimer":"the actual color of the physicial product may slightly vary due to the deviation of lighting sources, photography or your device display setting"
       "discountPercentage": 12.96, 
