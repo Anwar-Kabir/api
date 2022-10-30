@@ -1,32 +1,33 @@
 {
-  "products": [ 
+  "products": [
     {
       "id": 1,
       "title": "iPhone 9",
       "description": "An apple mobile which is nothing like apple",
       "price": 549,
       "discoundPrice": 530,
+      "discountPercentage": 12.96,
       "SKU": "6zQpZ-0008746-001184467",
       "availability": "instock",
-      "Brand":"Not Found",
+      "stock": 94,
       "Material":"Mesh cotton",
       "size":["S","L","XL","XXL"],
       "soldBy":"GS7",
-      "disclaimer":"the actual color of the physicial product may slightly vary due to the deviation of lighting sources, photography or your device display setting",
-      "discountPercentage": 12.96, 
+      "disclaimer":"the actual color of the physicial product may slightly vary due to the deviation of lighting sources, photography or your device display setting", 
       "rating": {
       "rate": 3.9,
       "count": 120
       },
-      "description1": "1 An apple mobile which is nothing like apple",
-      "description2": "2 An apple mobile which is nothing like apple",
-      "description3": "3 An apple mobile which is nothing like apple",
+     "diccription":{
+       "description1":"1 An apple mobile which is nothing like apple",
+       "description2": "2 An apple mobile which is nothing like apple",
+       "description3": "3 An apple mobile which is nothing like apple",
       "description4": "4 An apple mobile which is nothing like apple",
       "description5": "5 An apple mobile which is nothing like apple",
       "description6": "6 An apple mobile which is nothing like apple",
       "description7": "7 An apple mobile which is nothing like apple",
-      "description8": "8 An apple mobile which is nothing like apple",
-      "stock": 94,
+      "description8": "8 An apple mobile which is nothing like apple"
+     },
       "brand": "Apple",
       "category": "smartphones",
       "thumbnail": "https://dummyjson.com/image/i/products/1/thumbnail.jpg",
@@ -659,7 +660,7 @@
         "https://dummyjson.com/image/i/products/30/thumbnail.jpg"
       ]
     }
-  ],
+  ], 
   "total": 100,
   "skip": 0,
   "limit": 30
