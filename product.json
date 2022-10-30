@@ -1,6 +1,4 @@
- void main (){
-   
-var m = {
+{
   "products": [
     {
       "id": 1,
@@ -666,5 +664,3 @@ var m = {
   "skip": 0,
   "limit": 30
 };
-   
- }
