@@ -1,4 +1,6 @@
-{
+ void main (){
+   
+var m = {
   "products": [
     {
       "id": 1,
@@ -10,22 +12,22 @@
       "availability": "instock",
       "Brand":"Not Found",
       "Material":"Mesh cotton",
-      "size":['S','L','XL','XXL']
+      "size":['S','L','XL','XXL'],
       "soldBy":"GS7",
       "disclaimer":"the actual color of the physicial product may slightly vary due to the deviation of lighting sources, photography or your device display setting",
       "discountPercentage": 12.96, 
       "rating": {
       "rate": 3.9,
       "count": 120
-      }
+      },
       "description1": "1 An apple mobile which is nothing like apple",
-      "description2": "2 An apple mobile which is nothing like apple",
       "description2": "2 An apple mobile which is nothing like apple",
       "description3": "3 An apple mobile which is nothing like apple",
       "description4": "4 An apple mobile which is nothing like apple",
       "description5": "5 An apple mobile which is nothing like apple",
       "description6": "6 An apple mobile which is nothing like apple",
       "description7": "7 An apple mobile which is nothing like apple",
+      "description8": "8 An apple mobile which is nothing like apple",
       "stock": 94,
       "brand": "Apple",
       "category": "smartphones",
@@ -47,7 +49,7 @@
       "rating": {
       "rate": 3.9,
       "count": 120
-    }
+    },
       "stock": 34,
       "brand": "Apple",
       "category": "smartphones",
@@ -69,7 +71,7 @@
       "rating": {
       "rate": 3.9,
       "count": 120
-    }
+    },
       "stock": 36,
       "brand": "Samsung",
       "category": "smartphones",
@@ -87,7 +89,7 @@
       "rating": {
       "rate": 3.9,
       "count": 120
-    }
+    },
       "stock": 123,
       "brand": "OPPO",
       "category": "smartphones",
@@ -109,7 +111,7 @@
       "rating": {
       "rate": 3.9,
       "count": 120
-    }
+    },
       "stock": 32,
       "brand": "Huawei",
       "category": "smartphones",
@@ -129,7 +131,7 @@
       "rating": {
       "rate": 3.9,
       "count": 120
-    }
+    },
       "stock": 83,
       "brand": "APPle",
       "category": "laptops",
@@ -150,7 +152,7 @@
       "rating": {
       "rate": 3.9,
       "count": 120
-    }
+    },
       "stock": 50,
       "brand": "Samsung",
       "category": "laptops",
@@ -171,7 +173,7 @@
       "rating": {
       "rate": 3.9,
       "count": 120
-    }
+    },
       "stock": 68,
       "brand": "Microsoft Surface",
       "category": "laptops",
@@ -193,7 +195,7 @@
       "rating": {
       "rate": 3.9,
       "count": 120
-    }
+    },
       "stock": 96,
       "brand": "Infinix",
       "category": "laptops",
@@ -215,7 +217,7 @@
       "rating": {
       "rate": 3.9,
       "count": 120
-    }
+    },
       "stock": 89,
       "brand": "HP Pavilion",
       "category": "laptops",
@@ -236,7 +238,7 @@
       "rating": {
       "rate": 3.9,
       "count": 120
-    }
+    },
       "stock": 65,
       "brand": "Impression of Acqua Di Gio",
       "category": "fragrances",
@@ -257,7 +259,7 @@
       "rating": {
       "rate": 3.9,
       "count": 120
-    }
+    },
       "stock": 52,
       "brand": "Royal_Mirage",
       "category": "fragrances",
@@ -279,7 +281,7 @@
       "rating": {
       "rate": 3.9,
       "count": 120
-    }
+    },
       "stock": 61,
       "brand": "Fog Scent Xpressio",
       "category": "fragrances",
@@ -301,7 +303,7 @@
       "rating": {
       "rate": 3.9,
       "count": 120
-    }
+    },
       "stock": 114,
       "brand": "Al Munakh",
       "category": "fragrances",
@@ -322,7 +324,7 @@
       "rating": {
       "rate": 3.9,
       "count": 120
-    }
+    },
       "stock": 105,
       "brand": "Lord - Al-Rehab",
       "category": "fragrances",
@@ -344,7 +346,7 @@
       "rating": {
       "rate": 3.9,
       "count": 120
-    }
+    },
       "stock": 110,
       "brand": "L'Oreal Paris",
       "category": "skincare",
@@ -366,7 +368,7 @@
       "rating": {
       "rate": 3.9,
       "count": 120
-    }
+    },
       "stock": 78,
       "brand": "Hemani Tea",
       "category": "skincare",
@@ -387,7 +389,7 @@
       "rating": {
       "rate": 3.9,
       "count": 120
-    }
+    },
       "stock": 88,
       "brand": "Dermive",
       "category": "skincare",
@@ -409,7 +411,7 @@
       "rating": {
       "rate": 3.9,
       "count": 120
-    }
+    },
       "stock": 54,
       "brand": "ROREC White Rice",
       "category": "skincare",
@@ -430,7 +432,7 @@
       "rating": {
       "rate": 3.9,
       "count": 120
-    }
+    },
       "stock": 140,
       "brand": "Fair & Clear",
       "category": "skincare",
@@ -452,7 +454,7 @@
       "rating": {
       "rate": 3.9,
       "count": 120
-    }
+    },
       "stock": 133,
       "brand": "Saaf & Khaas",
       "category": "groceries",
@@ -472,7 +474,7 @@
       "rating": {
       "rate": 3.9,
       "count": 120
-    }
+    },
       "stock": 146,
       "brand": "Bake Parlor Big",
       "category": "groceries",
@@ -492,7 +494,7 @@
       "rating": {
       "rate": 3.9,
       "count": 120
-    }
+    },
       "stock": 26,
       "brand": "Baking Food Items",
       "category": "groceries",
@@ -514,7 +516,7 @@
       "rating": {
       "rate": 3.9,
       "count": 120
-    }
+    },
       "stock": 113,
       "brand": "fauji",
       "category": "groceries",
@@ -536,7 +538,7 @@
       "rating": {
       "rate": 3.9,
       "count": 120
-    }
+    },
       "stock": 47,
       "brand": "Dry Rose",
       "category": "groceries",
@@ -558,7 +560,7 @@
       "rating": {
       "rate": 3.9,
       "count": 120
-    }
+    },
       "stock": 131,
       "brand": "Boho Decor",
       "category": "home-decoration",
@@ -581,7 +583,7 @@
       "rating": {
       "rate": 3.9,
       "count": 120
-    }
+    },
       "stock": 17,
       "brand": "Flying Wooden",
       "category": "home-decoration",
@@ -603,7 +605,7 @@
       "rating": {
       "rate": 3.9,
       "count": 120
-    }
+    },
       "stock": 54,
       "brand": "LED Lights",
       "category": "home-decoration",
@@ -625,7 +627,7 @@
       "rating": {
       "rate": 3.9,
       "count": 120
-    }
+    },
       "stock": 7,
       "brand": "luxury palace",
       "category": "home-decoration",
@@ -647,7 +649,7 @@
       "rating": {
       "rate": 3.9,
       "count": 120
-    }
+    },
       "stock": 54,
       "brand": "Golden",
       "category": "home-decoration",
@@ -663,4 +665,6 @@
   "total": 100,
   "skip": 0,
   "limit": 30
-}
+};
+   
+ }
