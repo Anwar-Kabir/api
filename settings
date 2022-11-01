@@ -1,0 +1,7 @@
+[
+      {"icon" : "https://i.postimg.cc/9XYB4N75/user.png", "title": "My Account", "subtitle": "Make changes to your account"},
+      {"icon" : "https://i.postimg.cc/4dLV5jbm/trash.png", "title": "Order History", "subtitle": "Take a look at your Orders"},
+      {"icon" : "https://i.postimg.cc/4dLV5jbm/trash.png", "title": "Shipping Address", "subtitle": "Change or add your address"},
+      {"icon" : "https://i.postimg.cc/4dLV5jbm/trash.png", "title": "Delete your Account", "subtitle": "Account Delete"},
+      {"icon" : "https://i.postimg.cc/4dLV5jbm/trash.png", "title": "Logout", "subtitle": "Laogout form your account"}
+    ];
