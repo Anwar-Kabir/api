@@ -11,12 +11,12 @@
       "createdBy":"Anwar Kabir",
       "SKU": "6zQpZ-0008746-001184467",
       "availability": "instock",
-      "stock": 94,
+      "stockNew": 94,
       "material":"Mesh cotton",
       "size":["S","L","XL","XXL"],
       "soldBy":"GS7",
       "disclaimer":"the actual color of the physicial product may slightly vary due to the deviation of lighting sources, photography or your device display setting", 
-      "rating": {
+      "ratingNew": {
       "rate": 3.9,
       "count": 120
       },
@@ -30,6 +30,8 @@
       "description7": "7 An apple mobile which is nothing like apple",
       "description8": "8 An apple mobile which is nothing like apple"
      },
+      "rating": 4.69,
+      "stock": 94,
       "brand": "Apple",
       "category": "smartphones",
       "thumbnail": "https://dummyjson.com/image/i/products/1/thumbnail.jpg",
@@ -47,18 +49,18 @@
       "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
       "price": 899,
       "discountPercentage": 17.94,
-      "discoundPrice": 7300,
+      "discoundPrice": 530,
       "createdDate":"",
       "createdBy":"Anwar Kabir",
       "SKU": "6zQpZ-0008746-001184467",
       "availability": "instock",
-      "stock": 50,
+      "stockNew": 94,
       "material":"Mesh cotton",
       "size":["S","L","XL","XXL"],
       "soldBy":"GS7",
       "disclaimer":"the actual color of the physicial product may slightly vary due to the deviation of lighting sources, photography or your device display setting", 
-      "rating": {
-      "rate": 2.9,
+      "ratingNew": {
+      "rate": 3.9,
       "count": 120
       },
      "diccription":{
@@ -71,6 +73,8 @@
       "description7": "7 An apple mobile which is nothing like apple",
       "description8": "8 An apple mobile which is nothing like apple"
      },
+      "rating": 4.44,
+      "stock": 34,
       "brand": "Apple",
       "category": "smartphones",
       "thumbnail": "https://dummyjson.com/image/i/products/2/thumbnail.jpg",
@@ -92,12 +96,12 @@
       "createdBy":"Anwar Kabir",
       "SKU": "6zQpZ-0008746-001184467",
       "availability": "instock",
-      "stock": 94,
+      "stockNew": 94,
       "material":"Mesh cotton",
       "size":["S","L","XL","XXL"],
       "soldBy":"GS7",
       "disclaimer":"the actual color of the physicial product may slightly vary due to the deviation of lighting sources, photography or your device display setting", 
-      "rating": {
+      "ratingNew": {
       "rate": 3.9,
       "count": 120
       },
@@ -111,6 +115,8 @@
       "description7": "7 An apple mobile which is nothing like apple",
       "description8": "8 An apple mobile which is nothing like apple"
      },
+      "rating": 4.09,
+      "stock": 36,
       "brand": "Samsung",
       "category": "smartphones",
       "thumbnail": "https://dummyjson.com/image/i/products/3/thumbnail.jpg",
@@ -124,18 +130,17 @@
       "description": "OPPO F19 is officially announced on April 2021.",
       "price": 280,
       "discountPercentage": 17.91,
-      "rating": {
       "discoundPrice": 530,
       "createdDate":"",
       "createdBy":"Anwar Kabir",
       "SKU": "6zQpZ-0008746-001184467",
       "availability": "instock",
-      "stock": 94,
+      "stockNew": 94,
       "material":"Mesh cotton",
       "size":["S","L","XL","XXL"],
       "soldBy":"GS7",
       "disclaimer":"the actual color of the physicial product may slightly vary due to the deviation of lighting sources, photography or your device display setting", 
-      "rating": {
+      "ratingNew": {
       "rate": 3.9,
       "count": 120
       },
@@ -149,6 +154,8 @@
       "description7": "7 An apple mobile which is nothing like apple",
       "description8": "8 An apple mobile which is nothing like apple"
      },
+      "rating": 4.3,
+      "stock": 123,
       "brand": "OPPO",
       "category": "smartphones",
       "thumbnail": "https://dummyjson.com/image/i/products/4/thumbnail.jpg",
@@ -171,12 +178,12 @@
       "createdBy":"Anwar Kabir",
       "SKU": "6zQpZ-0008746-001184467",
       "availability": "instock",
-      "stock": 94,
+      "stockNew": 94,
       "material":"Mesh cotton",
       "size":["S","L","XL","XXL"],
       "soldBy":"GS7",
       "disclaimer":"the actual color of the physicial product may slightly vary due to the deviation of lighting sources, photography or your device display setting", 
-      "rating": {
+      "ratingNew": {
       "rate": 3.9,
       "count": 120
       },
@@ -190,6 +197,8 @@
       "description7": "7 An apple mobile which is nothing like apple",
       "description8": "8 An apple mobile which is nothing like apple"
      },
+      "rating": 4.09,
+      "stock": 32,
       "brand": "Huawei",
       "category": "smartphones",
       "thumbnail": "https://dummyjson.com/image/i/products/5/thumbnail.jpg",
@@ -210,12 +219,12 @@
       "createdBy":"Anwar Kabir",
       "SKU": "6zQpZ-0008746-001184467",
       "availability": "instock",
-      "stock": 94,
+      "stockNew": 94,
       "material":"Mesh cotton",
       "size":["S","L","XL","XXL"],
       "soldBy":"GS7",
       "disclaimer":"the actual color of the physicial product may slightly vary due to the deviation of lighting sources, photography or your device display setting", 
-      "rating": {
+      "ratingNew": {
       "rate": 3.9,
       "count": 120
       },
@@ -228,7 +237,9 @@
       "description6": "6 An apple mobile which is nothing like apple",
       "description7": "7 An apple mobile which is nothing like apple",
       "description8": "8 An apple mobile which is nothing like apple"
-     },
+     },	
+      "rating": 4.57,
+      "stock": 83,
       "brand": "APPle",
       "category": "laptops",
       "thumbnail": "https://dummyjson.com/image/i/products/6/thumbnail.png",
@@ -250,12 +261,12 @@
       "createdBy":"Anwar Kabir",
       "SKU": "6zQpZ-0008746-001184467",
       "availability": "instock",
-      "stock": 94,
+      "stockNew": 94,
       "material":"Mesh cotton",
       "size":["S","L","XL","XXL"],
       "soldBy":"GS7",
       "disclaimer":"the actual color of the physicial product may slightly vary due to the deviation of lighting sources, photography or your device display setting", 
-      "rating": {
+      "ratingNew": {
       "rate": 3.9,
       "count": 120
       },
@@ -269,6 +280,8 @@
       "description7": "7 An apple mobile which is nothing like apple",
       "description8": "8 An apple mobile which is nothing like apple"
      },
+      "rating": 4.25,
+      "stock": 50,
       "brand": "Samsung",
       "category": "laptops",
       "thumbnail": "https://dummyjson.com/image/i/products/7/thumbnail.jpg",
@@ -290,12 +303,12 @@
       "createdBy":"Anwar Kabir",
       "SKU": "6zQpZ-0008746-001184467",
       "availability": "instock",
-      "stock": 94,
+      "stockNew": 94,
       "material":"Mesh cotton",
       "size":["S","L","XL","XXL"],
       "soldBy":"GS7",
       "disclaimer":"the actual color of the physicial product may slightly vary due to the deviation of lighting sources, photography or your device display setting", 
-      "rating": {
+      "ratingNew": {
       "rate": 3.9,
       "count": 120
       },
@@ -309,6 +322,8 @@
       "description7": "7 An apple mobile which is nothing like apple",
       "description8": "8 An apple mobile which is nothing like apple"
      },
+      "rating": 4.43,
+      "stock": 68,
       "brand": "Microsoft Surface",
       "category": "laptops",
       "thumbnail": "https://dummyjson.com/image/i/products/8/thumbnail.jpg",
@@ -331,12 +346,12 @@
       "createdBy":"Anwar Kabir",
       "SKU": "6zQpZ-0008746-001184467",
       "availability": "instock",
-      "stock": 94,
+      "stockNew": 94,
       "material":"Mesh cotton",
       "size":["S","L","XL","XXL"],
       "soldBy":"GS7",
       "disclaimer":"the actual color of the physicial product may slightly vary due to the deviation of lighting sources, photography or your device display setting", 
-      "rating": {
+      "ratingNew": {
       "rate": 3.9,
       "count": 120
       },
@@ -350,6 +365,8 @@
       "description7": "7 An apple mobile which is nothing like apple",
       "description8": "8 An apple mobile which is nothing like apple"
      },
+      "rating": 4.54,
+      "stock": 96,
       "brand": "Infinix",
       "category": "laptops",
       "thumbnail": "https://dummyjson.com/image/i/products/9/thumbnail.jpg",
@@ -372,12 +389,12 @@
       "createdBy":"Anwar Kabir",
       "SKU": "6zQpZ-0008746-001184467",
       "availability": "instock",
-      "stock": 94,
+      "stockNew": 94,
       "material":"Mesh cotton",
       "size":["S","L","XL","XXL"],
       "soldBy":"GS7",
       "disclaimer":"the actual color of the physicial product may slightly vary due to the deviation of lighting sources, photography or your device display setting", 
-      "rating": {
+      "ratingNew": {
       "rate": 3.9,
       "count": 120
       },
@@ -391,6 +408,8 @@
       "description7": "7 An apple mobile which is nothing like apple",
       "description8": "8 An apple mobile which is nothing like apple"
      },
+      "rating": 4.43,
+      "stock": 89,
       "brand": "HP Pavilion",
       "category": "laptops",
       "thumbnail": "https://dummyjson.com/image/i/products/10/thumbnail.jpeg",
@@ -412,12 +431,12 @@
       "createdBy":"Anwar Kabir",
       "SKU": "6zQpZ-0008746-001184467",
       "availability": "instock",
-      "stock": 94,
+      "stockNew": 94,
       "material":"Mesh cotton",
       "size":["S","L","XL","XXL"],
       "soldBy":"GS7",
       "disclaimer":"the actual color of the physicial product may slightly vary due to the deviation of lighting sources, photography or your device display setting", 
-      "rating": {
+      "ratingNew": {
       "rate": 3.9,
       "count": 120
       },
@@ -431,6 +450,8 @@
       "description7": "7 An apple mobile which is nothing like apple",
       "description8": "8 An apple mobile which is nothing like apple"
      },
+      "rating": 4.26,
+      "stock": 65,
       "brand": "Impression of Acqua Di Gio",
       "category": "fragrances",
       "thumbnail": "https://dummyjson.com/image/i/products/11/thumbnail.jpg",
@@ -452,12 +473,12 @@
       "createdBy":"Anwar Kabir",
       "SKU": "6zQpZ-0008746-001184467",
       "availability": "instock",
-      "stock": 94,
+      "stockNew": 94,
       "material":"Mesh cotton",
       "size":["S","L","XL","XXL"],
       "soldBy":"GS7",
       "disclaimer":"the actual color of the physicial product may slightly vary due to the deviation of lighting sources, photography or your device display setting", 
-      "rating": {
+      "ratingNew": {
       "rate": 3.9,
       "count": 120
       },
@@ -471,6 +492,8 @@
       "description7": "7 An apple mobile which is nothing like apple",
       "description8": "8 An apple mobile which is nothing like apple"
      },
+      "rating": 4,
+      "stock": 52,
       "brand": "Royal_Mirage",
       "category": "fragrances",
       "thumbnail": "https://dummyjson.com/image/i/products/12/thumbnail.jpg",
@@ -493,12 +516,12 @@
       "createdBy":"Anwar Kabir",
       "SKU": "6zQpZ-0008746-001184467",
       "availability": "instock",
-      "stock": 94,
+      "stockNew": 94,
       "material":"Mesh cotton",
       "size":["S","L","XL","XXL"],
       "soldBy":"GS7",
       "disclaimer":"the actual color of the physicial product may slightly vary due to the deviation of lighting sources, photography or your device display setting", 
-      "rating": {
+      "ratingNew": {
       "rate": 3.9,
       "count": 120
       },
@@ -512,6 +535,8 @@
       "description7": "7 An apple mobile which is nothing like apple",
       "description8": "8 An apple mobile which is nothing like apple"
      },
+      "rating": 4.59,
+      "stock": 61,
       "brand": "Fog Scent Xpressio",
       "category": "fragrances",
       "thumbnail": "https://dummyjson.com/image/i/products/13/thumbnail.webp",
@@ -534,12 +559,12 @@
       "createdBy":"Anwar Kabir",
       "SKU": "6zQpZ-0008746-001184467",
       "availability": "instock",
-      "stock": 94,
+      "stockNew": 94,
       "material":"Mesh cotton",
       "size":["S","L","XL","XXL"],
       "soldBy":"GS7",
       "disclaimer":"the actual color of the physicial product may slightly vary due to the deviation of lighting sources, photography or your device display setting", 
-      "rating": {
+      "ratingNew": {
       "rate": 3.9,
       "count": 120
       },
@@ -553,6 +578,8 @@
       "description7": "7 An apple mobile which is nothing like apple",
       "description8": "8 An apple mobile which is nothing like apple"
      },
+      "rating": 4.21,
+      "stock": 114,
       "brand": "Al Munakh",
       "category": "fragrances",
       "thumbnail": "https://dummyjson.com/image/i/products/14/thumbnail.jpg",
@@ -574,12 +601,12 @@
       "createdBy":"Anwar Kabir",
       "SKU": "6zQpZ-0008746-001184467",
       "availability": "instock",
-      "stock": 94,
+      "stockNew": 94,
       "material":"Mesh cotton",
       "size":["S","L","XL","XXL"],
       "soldBy":"GS7",
       "disclaimer":"the actual color of the physicial product may slightly vary due to the deviation of lighting sources, photography or your device display setting", 
-      "rating": {
+      "ratingNew": {
       "rate": 3.9,
       "count": 120
       },
@@ -593,6 +620,8 @@
       "description7": "7 An apple mobile which is nothing like apple",
       "description8": "8 An apple mobile which is nothing like apple"
      },
+      "rating": 4.7,
+      "stock": 105,
       "brand": "Lord - Al-Rehab",
       "category": "fragrances",
       "thumbnail": "https://dummyjson.com/image/i/products/15/thumbnail.jpg",
@@ -615,12 +644,12 @@
       "createdBy":"Anwar Kabir",
       "SKU": "6zQpZ-0008746-001184467",
       "availability": "instock",
-      "stock": 94,
+      "stockNew": 94,
       "material":"Mesh cotton",
       "size":["S","L","XL","XXL"],
       "soldBy":"GS7",
       "disclaimer":"the actual color of the physicial product may slightly vary due to the deviation of lighting sources, photography or your device display setting", 
-      "rating": {
+      "ratingNew": {
       "rate": 3.9,
       "count": 120
       },
@@ -634,6 +663,8 @@
       "description7": "7 An apple mobile which is nothing like apple",
       "description8": "8 An apple mobile which is nothing like apple"
      },
+      "rating": 4.83,
+      "stock": 110,
       "brand": "L'Oreal Paris",
       "category": "skincare",
       "thumbnail": "https://dummyjson.com/image/i/products/16/thumbnail.jpg",
@@ -656,12 +687,12 @@
       "createdBy":"Anwar Kabir",
       "SKU": "6zQpZ-0008746-001184467",
       "availability": "instock",
-      "stock": 94,
+      "stockNew": 94,
       "material":"Mesh cotton",
       "size":["S","L","XL","XXL"],
       "soldBy":"GS7",
       "disclaimer":"the actual color of the physicial product may slightly vary due to the deviation of lighting sources, photography or your device display setting", 
-      "rating": {
+      "ratingNew": {
       "rate": 3.9,
       "count": 120
       },
@@ -675,6 +706,8 @@
       "description7": "7 An apple mobile which is nothing like apple",
       "description8": "8 An apple mobile which is nothing like apple"
      },
+      "rating": 4.52,
+      "stock": 78,
       "brand": "Hemani Tea",
       "category": "skincare",
       "thumbnail": "https://dummyjson.com/image/i/products/17/thumbnail.jpg",
@@ -696,12 +729,12 @@
       "createdBy":"Anwar Kabir",
       "SKU": "6zQpZ-0008746-001184467",
       "availability": "instock",
-      "stock": 94,
+      "stockNew": 94,
       "material":"Mesh cotton",
       "size":["S","L","XL","XXL"],
       "soldBy":"GS7",
       "disclaimer":"the actual color of the physicial product may slightly vary due to the deviation of lighting sources, photography or your device display setting", 
-      "rating": {
+      "ratingNew": {
       "rate": 3.9,
       "count": 120
       },
@@ -715,6 +748,8 @@
       "description7": "7 An apple mobile which is nothing like apple",
       "description8": "8 An apple mobile which is nothing like apple"
      },
+      "rating": 4.56,
+      "stock": 88,
       "brand": "Dermive",
       "category": "skincare",
       "thumbnail": "https://dummyjson.com/image/i/products/18/thumbnail.jpg",
@@ -737,12 +772,12 @@
       "createdBy":"Anwar Kabir",
       "SKU": "6zQpZ-0008746-001184467",
       "availability": "instock",
-      "stock": 94,
+      "stockNew": 94,
       "material":"Mesh cotton",
       "size":["S","L","XL","XXL"],
       "soldBy":"GS7",
       "disclaimer":"the actual color of the physicial product may slightly vary due to the deviation of lighting sources, photography or your device display setting", 
-      "rating": {
+      "ratingNew": {
       "rate": 3.9,
       "count": 120
       },
@@ -756,6 +791,8 @@
       "description7": "7 An apple mobile which is nothing like apple",
       "description8": "8 An apple mobile which is nothing like apple"
      },
+      "rating": 4.42,
+      "stock": 54,
       "brand": "ROREC White Rice",
       "category": "skincare",
       "thumbnail": "https://dummyjson.com/image/i/products/19/thumbnail.jpg",
@@ -777,12 +814,12 @@
       "createdBy":"Anwar Kabir",
       "SKU": "6zQpZ-0008746-001184467",
       "availability": "instock",
-      "stock": 94,
+      "stockNew": 94,
       "material":"Mesh cotton",
       "size":["S","L","XL","XXL"],
       "soldBy":"GS7",
       "disclaimer":"the actual color of the physicial product may slightly vary due to the deviation of lighting sources, photography or your device display setting", 
-      "rating": {
+      "ratingNew": {
       "rate": 3.9,
       "count": 120
       },
@@ -796,6 +833,8 @@
       "description7": "7 An apple mobile which is nothing like apple",
       "description8": "8 An apple mobile which is nothing like apple"
      },
+      "rating": 4.06,
+      "stock": 140,
       "brand": "Fair & Clear",
       "category": "skincare",
       "thumbnail": "https://dummyjson.com/image/i/products/20/thumbnail.jpg",
@@ -818,12 +857,12 @@
       "createdBy":"Anwar Kabir",
       "SKU": "6zQpZ-0008746-001184467",
       "availability": "instock",
-      "stock": 94,
+      "stockNew": 94,
       "material":"Mesh cotton",
       "size":["S","L","XL","XXL"],
       "soldBy":"GS7",
       "disclaimer":"the actual color of the physicial product may slightly vary due to the deviation of lighting sources, photography or your device display setting", 
-      "rating": {
+      "ratingNew": {
       "rate": 3.9,
       "count": 120
       },
@@ -837,6 +876,8 @@
       "description7": "7 An apple mobile which is nothing like apple",
       "description8": "8 An apple mobile which is nothing like apple"
      },
+      "rating": 4.44,
+      "stock": 133,
       "brand": "Saaf & Khaas",
       "category": "groceries",
       "thumbnail": "https://dummyjson.com/image/i/products/21/thumbnail.png",
@@ -857,12 +898,12 @@
       "createdBy":"Anwar Kabir",
       "SKU": "6zQpZ-0008746-001184467",
       "availability": "instock",
-      "stock": 94,
+      "stockNew": 94,
       "material":"Mesh cotton",
       "size":["S","L","XL","XXL"],
       "soldBy":"GS7",
       "disclaimer":"the actual color of the physicial product may slightly vary due to the deviation of lighting sources, photography or your device display setting", 
-      "rating": {
+      "ratingNew": {
       "rate": 3.9,
       "count": 120
       },
@@ -876,6 +917,8 @@
       "description7": "7 An apple mobile which is nothing like apple",
       "description8": "8 An apple mobile which is nothing like apple"
      },
+      "rating": 4.57,
+      "stock": 146,
       "brand": "Bake Parlor Big",
       "category": "groceries",
       "thumbnail": "https://dummyjson.com/image/i/products/22/thumbnail.jpg",
@@ -896,12 +939,12 @@
       "createdBy":"Anwar Kabir",
       "SKU": "6zQpZ-0008746-001184467",
       "availability": "instock",
-      "stock": 94,
+      "stockNew": 94,
       "material":"Mesh cotton",
       "size":["S","L","XL","XXL"],
       "soldBy":"GS7",
       "disclaimer":"the actual color of the physicial product may slightly vary due to the deviation of lighting sources, photography or your device display setting", 
-      "rating": {
+      "ratingNew": {
       "rate": 3.9,
       "count": 120
       },
@@ -915,6 +958,8 @@
       "description7": "7 An apple mobile which is nothing like apple",
       "description8": "8 An apple mobile which is nothing like apple"
      },
+      "rating": 4.85,
+      "stock": 26,
       "brand": "Baking Food Items",
       "category": "groceries",
       "thumbnail": "https://dummyjson.com/image/i/products/23/thumbnail.jpg",
@@ -937,12 +982,12 @@
       "createdBy":"Anwar Kabir",
       "SKU": "6zQpZ-0008746-001184467",
       "availability": "instock",
-      "stock": 94,
+      "stockNew": 94,
       "material":"Mesh cotton",
       "size":["S","L","XL","XXL"],
       "soldBy":"GS7",
       "disclaimer":"the actual color of the physicial product may slightly vary due to the deviation of lighting sources, photography or your device display setting", 
-      "rating": {
+      "ratingNew": {
       "rate": 3.9,
       "count": 120
       },
@@ -956,6 +1001,8 @@
       "description7": "7 An apple mobile which is nothing like apple",
       "description8": "8 An apple mobile which is nothing like apple"
      },
+      "rating": 4.94,
+      "stock": 113,
       "brand": "fauji",
       "category": "groceries",
       "thumbnail": "https://dummyjson.com/image/i/products/24/thumbnail.jpg",
@@ -973,17 +1020,17 @@
       "description": "Dry Rose Flower Powder Gulab Powder 50 Gram • Treats Wounds",
       "price": 70,
       "discountPercentage": 13.58,
-     "discoundPrice": 530,
+      "discoundPrice": 530,
       "createdDate":"",
       "createdBy":"Anwar Kabir",
       "SKU": "6zQpZ-0008746-001184467",
       "availability": "instock",
-      "stock": 94,
+      "stockNew": 94,
       "material":"Mesh cotton",
       "size":["S","L","XL","XXL"],
       "soldBy":"GS7",
       "disclaimer":"the actual color of the physicial product may slightly vary due to the deviation of lighting sources, photography or your device display setting", 
-      "rating": {
+      "ratingNew": {
       "rate": 3.9,
       "count": 120
       },
@@ -997,6 +1044,8 @@
       "description7": "7 An apple mobile which is nothing like apple",
       "description8": "8 An apple mobile which is nothing like apple"
      },
+      "rating": 4.87,
+      "stock": 47,
       "brand": "Dry Rose",
       "category": "groceries",
       "thumbnail": "https://dummyjson.com/image/i/products/25/thumbnail.jpg",
@@ -1019,12 +1068,12 @@
       "createdBy":"Anwar Kabir",
       "SKU": "6zQpZ-0008746-001184467",
       "availability": "instock",
-      "stock": 94,
+      "stockNew": 94,
       "material":"Mesh cotton",
       "size":["S","L","XL","XXL"],
       "soldBy":"GS7",
       "disclaimer":"the actual color of the physicial product may slightly vary due to the deviation of lighting sources, photography or your device display setting", 
-      "rating": {
+      "ratingNew": {
       "rate": 3.9,
       "count": 120
       },
@@ -1038,6 +1087,8 @@
       "description7": "7 An apple mobile which is nothing like apple",
       "description8": "8 An apple mobile which is nothing like apple"
      },
+      "rating": 4.08,
+      "stock": 131,
       "brand": "Boho Decor",
       "category": "home-decoration",
       "thumbnail": "https://dummyjson.com/image/i/products/26/thumbnail.jpg",
@@ -1056,30 +1107,8 @@
       "description": "Package Include 6 Birds with Adhesive Tape Shape: 3D Shaped Wooden Birds Material: Wooden MDF, Laminated 3.5mm",
       "price": 51,
       "discountPercentage": 15.58,
-     "discoundPrice": 530,
-      "createdDate":"",
-      "createdBy":"Anwar Kabir",
-      "SKU": "6zQpZ-0008746-001184467",
-      "availability": "instock",
-      "stock": 94,
-      "material":"Mesh cotton",
-      "size":["S","L","XL","XXL"],
-      "soldBy":"GS7",
-      "disclaimer":"the actual color of the physicial product may slightly vary due to the deviation of lighting sources, photography or your device display setting", 
-      "rating": {
-      "rate": 3.9,
-      "count": 120
-      },
-     "diccription":{
-       "description1":"1 An apple mobile which is nothing like apple",
-       "description2": "2 An apple mobile which is nothing like apple",
-       "description3": "3 An apple mobile which is nothing like apple",
-      "description4": "4 An apple mobile which is nothing like apple",
-      "description5": "5 An apple mobile which is nothing like apple",
-      "description6": "6 An apple mobile which is nothing like apple",
-      "description7": "7 An apple mobile which is nothing like apple",
-      "description8": "8 An apple mobile which is nothing like apple"
-     },
+      "rating": 4.41,
+      "stock": 17,
       "brand": "Flying Wooden",
       "category": "home-decoration",
       "thumbnail": "https://dummyjson.com/image/i/products/27/thumbnail.webp",
@@ -1097,30 +1126,8 @@
       "description": "3D led lamp sticker Wall sticker 3d wall art light on/off button  cell operated (included)",
       "price": 20,
       "discountPercentage": 16.49,
-     "discoundPrice": 530,
-      "createdDate":"",
-      "createdBy":"Anwar Kabir",
-      "SKU": "6zQpZ-0008746-001184467",
-      "availability": "instock",
-      "stock": 94,
-      "material":"Mesh cotton",
-      "size":["S","L","XL","XXL"],
-      "soldBy":"GS7",
-      "disclaimer":"the actual color of the physicial product may slightly vary due to the deviation of lighting sources, photography or your device display setting", 
-      "rating": {
-      "rate": 3.9,
-      "count": 120
-      },
-     "diccription":{
-       "description1":"1 An apple mobile which is nothing like apple",
-       "description2": "2 An apple mobile which is nothing like apple",
-       "description3": "3 An apple mobile which is nothing like apple",
-      "description4": "4 An apple mobile which is nothing like apple",
-      "description5": "5 An apple mobile which is nothing like apple",
-      "description6": "6 An apple mobile which is nothing like apple",
-      "description7": "7 An apple mobile which is nothing like apple",
-      "description8": "8 An apple mobile which is nothing like apple"
-     },
+      "rating": 4.82,
+      "stock": 54,
       "brand": "LED Lights",
       "category": "home-decoration",
       "thumbnail": "https://dummyjson.com/image/i/products/28/thumbnail.jpg",
@@ -1138,30 +1145,8 @@
       "description": "Handcraft Chinese style art luxury palace hotel villa mansion home decor ceramic vase with brass fruit plate",
       "price": 60,
       "discountPercentage": 15.34,
-     "discoundPrice": 530,
-      "createdDate":"",
-      "createdBy":"Anwar Kabir",
-      "SKU": "6zQpZ-0008746-001184467",
-      "availability": "instock",
-      "stock": 94,
-      "material":"Mesh cotton",
-      "size":["S","L","XL","XXL"],
-      "soldBy":"GS7",
-      "disclaimer":"the actual color of the physicial product may slightly vary due to the deviation of lighting sources, photography or your device display setting", 
-      "rating": {
-      "rate": 3.9,
-      "count": 120
-      },
-     "diccription":{
-       "description1":"1 An apple mobile which is nothing like apple",
-       "description2": "2 An apple mobile which is nothing like apple",
-       "description3": "3 An apple mobile which is nothing like apple",
-      "description4": "4 An apple mobile which is nothing like apple",
-      "description5": "5 An apple mobile which is nothing like apple",
-      "description6": "6 An apple mobile which is nothing like apple",
-      "description7": "7 An apple mobile which is nothing like apple",
-      "description8": "8 An apple mobile which is nothing like apple"
-     },
+      "rating": 4.44,
+      "stock": 7,
       "brand": "luxury palace",
       "category": "home-decoration",
       "thumbnail": "https://dummyjson.com/image/i/products/29/thumbnail.webp",
@@ -1179,30 +1164,8 @@
       "description": "Attractive DesignMetallic materialFour key hooksReliable & DurablePremium Quality",
       "price": 30,
       "discountPercentage": 2.92,
-      "discoundPrice": 530,
-      "createdDate":"",
-      "createdBy":"Anwar Kabir",
-      "SKU": "6zQpZ-0008746-001184467",
-      "availability": "instock",
-      "stock": 94,
-      "material":"Mesh cotton",
-      "size":["S","L","XL","XXL"],
-      "soldBy":"GS7",
-      "disclaimer":"the actual color of the physicial product may slightly vary due to the deviation of lighting sources, photography or your device display setting", 
-      "rating": {
-      "rate": 3.9,
-      "count": 120
-      },
-     "diccription":{
-       "description1":"1 An apple mobile which is nothing like apple",
-       "description2": "2 An apple mobile which is nothing like apple",
-       "description3": "3 An apple mobile which is nothing like apple",
-      "description4": "4 An apple mobile which is nothing like apple",
-      "description5": "5 An apple mobile which is nothing like apple",
-      "description6": "6 An apple mobile which is nothing like apple",
-      "description7": "7 An apple mobile which is nothing like apple",
-      "description8": "8 An apple mobile which is nothing like apple"
-     },
+      "rating": 4.92,
+      "stock": 54,
       "brand": "Golden",
       "category": "home-decoration",
       "thumbnail": "https://dummyjson.com/image/i/products/30/thumbnail.jpg",
